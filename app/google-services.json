@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779180813328",
+    "project_id": "csfairfirebase-639bc",
+    "storage_bucket": "csfairfirebase-639bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779180813328:android:e9d73a4cd818754e9cee95",
+        "android_client_info": {
+          "package_name": "com.example.prasantcsfair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779180813328-n3c0shdfjcoohlu9hvp1v7on7of56q1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWsPRWocShSUURiAjXLkYo8R-edsOO2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779180813328-n3c0shdfjcoohlu9hvp1v7on7of56q1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
